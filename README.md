@@ -8,7 +8,7 @@ http://tobiasahlin.com/spinkit/
 https://angularfirebase.com/lessons/generate-a-custom-spash-screen-and-icons-in-ionic/
 
 
-# To run app
+# To run the app
 `git clone https://github.com/jether2011/ionic-test-theme.git`
 
 `npm i`
